@@ -3,3 +3,8 @@ labels:
   new: fleet-label2
   #new_changed: fleet-label-changed
   #new_changed_2: fleet-label-changed-2
+
+  annotations:
+    new: fleet-annotation2
+    #new_changed: fleet-annotation-changed
+    #new_changed_2: fleet-annotation-changed-2
