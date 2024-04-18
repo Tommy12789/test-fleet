@@ -3,7 +3,3 @@ labels:
   new: fleet-label2
   #new_changed: fleet-label-changed
   #new_changed_2: fleet-label-changed-2
-
-  annotations:
-    version: v1.0
-    author: test
