@@ -4,4 +4,3 @@ helm:
     name: example-value
 labels:
   app: example-app
-  test: test
