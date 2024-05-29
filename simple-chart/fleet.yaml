@@ -2,3 +2,6 @@ helm:
   chart: config-chart
   values:
     name: example-value
+labels:
+  app: example-app
+  env: dev
